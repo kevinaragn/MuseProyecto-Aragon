@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 15px;
+    
+}
+
+.navbar {
+    margin-bottom: 5px;
+}
+ .body{
+background-color: black;
+ }
+ .navbar{
+     background-color: black;
+ }
+.carousel{
+    margin: 0px;
+
+}
+.card:hover .img {
+    -webkit-transform:scale(1.1);
+     transform:scale(1.1);
+    -webkit-transition:all .9s ease;
+}
+.card-title{
+    text-align: center;
+    font-family: Impact
+}
+.card{
+    border-radius: 20px;
+}
